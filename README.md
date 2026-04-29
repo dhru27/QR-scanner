@@ -1,4 +1,4 @@
-# QR-scanner
+# q&a-chatbot
 
 ## ME Course Q&A Chatbot (Gemini + Streamlit)
 
